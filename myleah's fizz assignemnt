@@ -1,0 +1,7 @@
+For ( var i=1; i <= 100; i++)
+If ( i %3 ==0) {
+console.log(“Fizz”);
+}
+Else {
+console.log(i);
+}
